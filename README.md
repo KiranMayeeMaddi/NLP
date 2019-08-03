@@ -1,4 +1,4 @@
-# NLP
+# NLP - Unstructured Text to Knowledge graph conversion
 1.    Dataset Folder:
 a.    Ner_dataset.csv - is a GMB corpus which is an annotated Kaggle dataset used for performance comparison between CRF and Spacy for NER
 b.    ActorsDataset folder - Consists of the list of 25 actors text file that contains the wikipedia scraped data using “wikipedia_web_parser.ipynb”. These files contain the unstructured text used for processing and building the knowledge graph. 
