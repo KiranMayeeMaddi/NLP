@@ -66,7 +66,7 @@ Enter choice (0 to 5): 1
 Provide the required option to view the query result from the knowledge graph. Valid inputs are within (0 to 5)
 d.    The later part of the notebook provides the comparison between the response of our algorithm query and the Google Knowledge graph API query response for a particular person name. To execute this, update the API_KEY with your access api key for Google Knowledge Graph API 
 
-3. References:
+References:
 1.    Stanford-CoreNLP : https://github.com/dasmith/stanford-corenlp-python
 2.    Coreference Resolution: https://github.com/aleenaraj/Coreference_Resolution
 
